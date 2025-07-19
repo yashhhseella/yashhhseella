@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Yash Sella</h1>
+<h1 align="center">Hi 👋 I'm Yash Seella</h1>
 
 # 🎓 About Me:
 I am a fourth-year computer science student at The University of Minnesota - Twin Cities, passionate about exploring the realms of coding, machine learning, and algorithmic trading.
