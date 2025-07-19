@@ -22,7 +22,6 @@ I am a fourth‑year CS undergrad at UMN – Twin Cities, passionate about cod
 <!-- 3. Connect -->
 ## 🌐 Connect
 - 📧 [yrseella@gmail.com](mailto:yrseella@umn.edu)  
-- 💻 [github.com/yashhhseella](https://github.com/yashhhseella)  
 - 🔗 [linkedin.com/in/yashseella](https://www.linkedin.com/in/yashseella/)  
 - 🌐 [yashseella.com](https://yashseella.com)
 
