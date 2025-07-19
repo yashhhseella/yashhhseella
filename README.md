@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I’m Yash Seella</h1>
 
 ## 🎓 About Me  
-I am a fourth‑year Computer Science student at the University of Minnesota – Twin Cities, passionate about coding, machine learning, and algorithmic trading.
+I am a fourth‑year Computer Science undergrad at UMN – Twin Cities, passionate about coding, machine learning, and algorithmic trading.
 
 ## 🌐 Connect
 - 📧 [yrseella@gmail.com](mailto:yashseella@umn.edu)  
