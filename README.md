@@ -27,6 +27,9 @@ I am a fourth‑year Computer Science student at the University of Minnesota �
 ## 📊 GitHub Stats
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yashhhseella&"                                    alt="yashhhseella streak" />
 <img align="right"  src="https://github-readme-stats.vercel.app/api?username=yashhhseella&show_icons=true&locale=en"              alt="yashhhseella stats" />
+
 <br clear="both"/>
+
+
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
