@@ -1,9 +1,14 @@
 name: Generate Datas
 
 on:
-  schedule:            # execute every 12 hours
-    - cron: '0 */3 * * *'
+  schedule:            # execute every 4 hours
+    - cron: '0 */4 * * *'
   workflow_dispatch:
+
+permissions:
+  contents: write     # allow pushing code/artifacts
+  pages:    write     # allow publishing to GitHub Pages
+  id-token: write     # if the action uses OIDC (some pages actions do)
 
 jobs:
   build:
