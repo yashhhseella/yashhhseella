@@ -17,7 +17,7 @@
 
 <!-- 2. About Me -->
 ## 🎓 About Me  
-I am a fourth‑year CS undergrad at UMN – Twin Cities, passionate about coding, machine learning, and algorithmic trading.
+I am a fourth‑year CS undergrad at UMN – Twin Cities (pre revenue), passionate about coding, machine learning, and algorithmic trading.
 
 <!-- 3. Connect -->
 ## 🌐 Connect
