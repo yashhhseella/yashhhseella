@@ -26,18 +26,18 @@ I am a fourth‑year Computer Science student at the University of Minnesota �
 
 ## 📊 GitHub Stats
 
-<table width="100%">
+<table style="width:100%; border:none; border-collapse: collapse;">
   <tr>
-    <td align="left" width="50%">
-      <img 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=yashhhseella&" 
-        alt="yashhhseella streak" 
+    <td align="left" width="50%" style="border:none; padding:0;">
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=yashhhseella&"
+        alt="yashhhseella streak"
         width="100%"/>
     </td>
-    <td align="right" width="50%">
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=yashhhseella&show_icons=true&locale=en" 
-        alt="yashhhseella stats" 
+    <td align="right" width="50%" style="border:none; padding:0;">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=yashhhseella&show_icons=true&locale=en"
+        alt="yashhhseella stats"
         width="100%"/>
     </td>
   </tr>
