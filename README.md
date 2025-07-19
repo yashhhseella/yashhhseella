@@ -17,7 +17,7 @@
 
 <!-- 2. About Me -->
 ## 🎓 About Me  
-CS undergrad (pre revenue) at UMN – Twin Cities, passionate about coding, machine learning, and algorithmic trading.
+CS undergrad (pre revenue) @ UMN – Twin Cities, passionate about coding, machine learning, and algorithmic trading.
 
 <!-- 3. Connect -->
 ## 🌐 Connect
