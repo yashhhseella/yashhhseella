@@ -39,7 +39,6 @@ I am a fourth‑year Computer Science student at the University of Minnesota �
 <p align="left">
   <a href="https://nodejs.org"                   target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40"/></a>
   <a href="https://expressjs.com"                target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40"/></a>
-  <a href="https://flask.palletsprojects.com/"   target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40"/></a>
   <a href="https://nestjs.com/"                  target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40"/></a>
   <a href="https://spring.io/"                   target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40"/></a>
   <a href="https://graphql.org"                  target="_blank"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40"/></a>
@@ -89,3 +88,8 @@ I am a fourth‑year Computer Science student at the University of Minnesota �
 <p align="left">
   <a href="https://grafana.com"               target="_blank"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40"/></a>
 </p>
+
+## 📊 GitHub Stats
+<p><img align="left"    src="https://github-readme-stats.vercel.app/api/top-langs?username=yashhhseella&show_icons=true&locale=en&layout=compact" alt="yashhhseella" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashhhseella&show_icons=true&locale=en"               alt="yashhhseella" /></p>
+<p><img align="center"    src="https://github-readme-streak-stats.herokuapp.com/?user=yashhhseella&"                                   alt="yashhhseella" /></p>
