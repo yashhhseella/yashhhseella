@@ -32,4 +32,5 @@ I am a fourth‑year Computer Science student at the University of Minnesota �
 
 
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+# My GitHub Stats Snake
+![GitHub Contribution Snake](https://github.com/yashhhseella/yashhhseella/blob/output/github-contribution-grid-snake.svg)
