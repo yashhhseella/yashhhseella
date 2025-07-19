@@ -46,4 +46,4 @@ I am a fourth‑year Computer Science undergrad at UMN – Twin Cities, passio
 
 
 # My GitHub Stats Snake
-![GitHub Snake](https://raw.githubusercontent.com/yashhhseella/yashhhseella/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake (dark)](https://raw.githubusercontent.com/yashhhseella/yashhhseella/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
