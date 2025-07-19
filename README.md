@@ -90,5 +90,5 @@ I am a fourth‑year Computer Science student at the University of Minnesota �
 </p>
 
 ## 📊 GitHub Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashhhseella&show_icons=true&locale=en"               alt="yashhhseella" /></p>
-<p><img align="center"    src="https://github-readme-streak-stats.herokuapp.com/?user=yashhhseella&"                                   alt="yashhhseella" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=yashhhseella&show_icons=true&locale=en"               alt="yashhhseella" /></p>
+<p><img align="right"    src="https://github-readme-streak-stats.herokuapp.com/?user=yashhhseella&"                                   alt="yashhhseella" /></p>
