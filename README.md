@@ -47,13 +47,13 @@ CS undergrad (pre revenue) @ UMN – Twin Cities, passionate about coding, mac
   <tr>
     <td align="left" width="50%" style="border:none; padding:0;">
       <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=yashhhseella"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=yashhhseella&theme=dark"
         alt="GitHub Streak Stats"
         width="100%"/>
     </td>
     <td align="right" width="50%" style="border:none; padding:0;">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=yashhhseella&show_icons=true&locale=en"
+        src="https://github-readme-stats.vercel.app/api?username=yashhhseella&show_icons=true&locale=en&theme=dark"
         alt="GitHub Stats"
         width="100%"/>
     </td>
