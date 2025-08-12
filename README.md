@@ -41,7 +41,7 @@ CS undergrad (pre revenue) @ UMN – Twin Cities, passionate about coding, mac
 </p>
 
 <!-- 5. GitHub Stats -->
-## 📊 GitHub Stats (Grandmaster rank incoming soon trust ong frfr)
+## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/yashhhseella">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashhhseella&theme=dark&background=0D1117" alt="Yash's GitHub streak"/>
