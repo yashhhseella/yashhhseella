@@ -44,23 +44,23 @@ CS undergrad (pre revenue) @ UMN – Twin Cities, passionate about coding, mac
 ## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/yashhhseella">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashhhseella&theme=dark&border=FFFFFF&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="Yash's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashhhseella&theme=dark&background=0D1117" alt="Yash's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/yashhhseella">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashhhseella&theme=github_dark&background=000000&title_color=FFFFFF&text_color=FFFFFF" alt="Yash's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashhhseella&theme=github_dark" alt="Yash's GitHub Contribution"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/yashhhseella">
-    <img alt="Yash's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=yashhhseella&show_icons=true&count_private=true&theme=dark&border_color=FFFFFF&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" height="192px" width="49.5%"/>
+    <img alt="Yash's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=yashhhseella&show_icons=true&count_private=true&theme=dark&bg_color=0D1117" height="192px" width="49.5%"/>
   </a>
   <a href="https://github.com/yashhhseella">
-    <img alt="Yash's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=yashhhseella&langs_count=8&layout=compact&theme=dark&border_color=FFFFFF&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" height="192px" width="49.5%"/>
+    <img alt="Yash's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=yashhhseella&langs_count=8&layout=compact&theme=dark&bg_color=0D1117" height="192px" width="49.5%"/>
   </a>
 </p>
 
-![My Graph](https://github-readme-activity-graph.vercel.app/graph?username=yashhhseella&custom_title=Yash%20Seella's%20GitHub%20Activity%20Graph&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+[![My Graph](https://github-readme-activity-graph.vercel.app/graph?username=yashhhseella&bg_color=0d1117&color=ffffff&line=3ebe5e&point=3ebe5e&area=true&area_color=2ea043&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
