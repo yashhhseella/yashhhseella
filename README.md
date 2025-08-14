@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I’m Yash Seella</h1>
+<h1 align="center">Hi 👋 I’m Yash</h1>
 
 <!-- 1. Snake animation --> 
 <p align="center">
