@@ -15,10 +15,6 @@
   </picture>
 </p>
 
-<!-- 2. About Me -->
-## 🎓 About Me  
-CS undergrad (pre revenue) @ UMN – Twin Cities, passionate about coding, machine learning, and algorithmic trading.
-
 <!-- 3. Connect -->
 ## 🌐 Connect
 - 📧 [yrseella@gmail.com](mailto:yrseella@umn.edu)  
