@@ -1,30 +1,71 @@
-name: Update Code Stats
+name: Update GitHub Code Stats
 
 on:
-  schedule:
-    - cron: "0 0 * * 0"   # every Sunday
   workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * 0"   # every Sunday midnight UTC
 
 permissions:
   contents: write
 
 jobs:
-  analyze:
+  update-stats:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout profile repo
         uses: actions/checkout@v4
 
-      - name: Clone analyzer repo
-        run: |
-          git clone https://github.com/arhamkhnz/github-code-analyzer.git temp-analyzer
+      - name: Install cloc
+        run: sudo apt-get update && sudo apt-get install -y cloc
 
-      - name: Copy workflow logic
-        run: |
-          cp temp-analyzer/analyze-code.yml .github/workflows/
-
-      - name: Run analyzer
-        uses: ./.github/workflows
+      - name: Clone all repos and count code
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
+          USERNAME: ${{ github.repository_owner }}
+        run: |
+          mkdir repos
+          cd repos
+
+          gh repo list $USERNAME --limit 100 --json name,isFork -q '.[] | select(.isFork==false) | .name' > repos.txt
+
+          TOTAL=0
+          TS=0
+          JS=0
+          PY=0
+
+          while read repo; do
+            git clone https://x-access-token:${GH_PAT}@github.com/${USERNAME}/${repo}.git
+          done < repos.txt
+
+          OUTPUT=$(cloc . --json)
+
+          echo "$OUTPUT" > ../cloc-output.json
+
+      - name: Update README
+        run: |
+          TOTAL=$(jq '.SUM.code' cloc-output.json)
+
+          STATS="[ TOTAL LINES OF CODE: ${TOTAL} ]"
+
+          awk '
+          /<!-- LANGUAGES BREAKDOWN START -->/ {
+            print;
+            print "";
+            print "[ TOTAL LINES OF CODE: '"$TOTAL"' ]";
+            skip=1;
+            next
+          }
+          /<!-- LANGUAGES BREAKDOWN END -->/ {
+            skip=0
+          }
+          !skip
+          ' README.md > temp && mv temp README.md
+
+      - name: Commit changes
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add README.md
+          git commit -m "update code stats" || echo "No changes"
+          git push
