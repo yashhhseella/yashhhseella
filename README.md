@@ -19,7 +19,15 @@
 
 <!-- LANGUAGES BREAKDOWN START -->
 
-[ TOTAL LINES OF CODE: 29735 ]
+```text
+📊 CODE STATS
+-------------------------
+TypeScript   → 8228
+JavaScript   → 15
+Python       → 11014
+-------------------------
+Total LOC    → 29747
+```
 <!-- LANGUAGES BREAKDOWN END -->
 
 <!-- 3. Connect -->
