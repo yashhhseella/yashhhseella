@@ -1,0 +1,30 @@
+name: Update Code Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * 0"   # every Sunday
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  analyze:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile repo
+        uses: actions/checkout@v4
+
+      - name: Clone analyzer repo
+        run: |
+          git clone https://github.com/arhamkhnz/github-code-analyzer.git temp-analyzer
+
+      - name: Copy workflow logic
+        run: |
+          cp temp-analyzer/analyze-code.yml .github/workflows/
+
+      - name: Run analyzer
+        uses: ./.github/workflows
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
