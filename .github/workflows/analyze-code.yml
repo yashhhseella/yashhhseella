@@ -45,19 +45,30 @@ jobs:
       - name: Update README
         run: |
           TOTAL=$(jq '.SUM.code' cloc-output.json)
-
-          STATS="[ TOTAL LINES OF CODE: ${TOTAL} ]"
-
+          JS=$(jq '.JavaScript.code // 0' cloc-output.json)
+          TS=$(jq '."TypeScript".code // 0' cloc-output.json)
+          PY=$(jq '.Python.code // 0' cloc-output.json)
+      
           awk '
           /<!-- LANGUAGES BREAKDOWN START -->/ {
-            print;
-            print "";
-            print "[ TOTAL LINES OF CODE: '"$TOTAL"' ]";
-            skip=1;
+            print
+            print ""
+            print "```text"
+            print "📊 CODE STATS"
+            print "-------------------------"
+            print "TypeScript   → '"$TS"'"
+            print "JavaScript   → '"$JS"'"
+            print "Python       → '"$PY"'"
+            print "-------------------------"
+            print "Total LOC    → '"$TOTAL"'"
+            print "```"
+            skip=1
             next
           }
           /<!-- LANGUAGES BREAKDOWN END -->/ {
             skip=0
+            print
+            next
           }
           !skip
           ' README.md > temp && mv temp README.md
