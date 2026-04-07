@@ -15,6 +15,12 @@
   </picture>
 </p>
 
+## 💻 Code Stats
+
+<!-- LANGUAGES BREAKDOWN START -->
+Loading stats...
+<!-- LANGUAGES BREAKDOWN END -->
+
 <!-- 3. Connect -->
 ## 🌐 Connect
 - 📧 [yrseella@gmail.com](mailto:yrseella@umn.edu)  
