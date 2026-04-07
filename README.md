@@ -15,20 +15,6 @@
   </picture>
 </p>
 
-## 💻 Code Stats
-
-<!-- LANGUAGES BREAKDOWN START -->
-
-```text
-📊 CODE STATS
--------------------------
-TypeScript   → 8228
-JavaScript   → 15
-Python       → 11014
--------------------------
-Total LOC    → 29747
-```
-<!-- LANGUAGES BREAKDOWN END -->
 
 <!-- 3. Connect -->
 ## 🌐 Connect
@@ -50,6 +36,19 @@ Total LOC    → 29747
   <a href="https://www.w3schools.com/css/"       target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40"/></a>
   <a href="https://javascript.com"               target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/></a>
 </p>
+
+<!-- LANGUAGES BREAKDOWN START -->
+
+```text
+📊 CODE STATS
+-------------------------
+TypeScript   → 8228
+JavaScript   → 15
+Python       → 11014
+-------------------------
+Total LOC    → 29747
+```
+<!-- LANGUAGES BREAKDOWN END -->
 
 <!-- 5. GitHub Stats -->
 ## 📊 GitHub Stats
