@@ -21,7 +21,7 @@ jobs:
 
       - name: Clone all repos and count code
         env:
-          GH_PAT: ${{ secrets.GH_PAT }}
+          GH_TOKEN: ${{ secrets.GH_PAT }}
           USERNAME: ${{ github.repository_owner }}
         run: |
           mkdir repos
@@ -35,7 +35,7 @@ jobs:
           PY=0
 
           while read repo; do
-            git clone https://x-access-token:${GH_PAT}@github.com/${USERNAME}/${repo}.git
+            git clone https://x-access-token:${GH_TOKEN}@github.com/${USERNAME}/${repo}.git
           done < repos.txt
 
           OUTPUT=$(cloc . --json)
