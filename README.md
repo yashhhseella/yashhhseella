@@ -18,7 +18,8 @@
 ## 💻 Code Stats
 
 <!-- LANGUAGES BREAKDOWN START -->
-Loading stats...
+
+[ TOTAL LINES OF CODE: 29735 ]
 <!-- LANGUAGES BREAKDOWN END -->
 
 <!-- 3. Connect -->
