@@ -15,14 +15,6 @@
   </picture>
 </p>
 
-
-<!-- 3. Connect -->
-## 🌐 Connect
-- 📧 [yrseella@gmail.com](mailto:yrseella@umn.edu)  
-- 🔗 [linkedin.com/in/yashseella](https://www.linkedin.com/in/yashseella/)  
-- 🌐 [yashseella.com](https://yashseella.com)
-
-
 <!-- 4. Technologies & Tools -->
 ## 💻 Technologies & Tools
 <p align="left">
@@ -36,19 +28,6 @@
   <a href="https://www.w3schools.com/css/"       target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40"/></a>
   <a href="https://javascript.com"               target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/></a>
 </p>
-
-<!-- LANGUAGES BREAKDOWN START -->
-
-```text
-📊 CODE STATS
--------------------------
-TypeScript   → 8228
-JavaScript   → 15
-Python       → 11500
--------------------------
-Total LOC    → 30558
-```
-<!-- LANGUAGES BREAKDOWN END -->
 
 <!-- 5. GitHub Stats -->
 ## 📊 GitHub Stats
