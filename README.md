@@ -39,12 +39,6 @@
 
 <p align="center">
   <a href="https://github.com/yashhhseella">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashhhseella&theme=github_dark" alt="Yash's GitHub Contribution"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/yashhhseella">
     <img alt="Yash's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=yashhhseella&show_icons=true&count_private=true&theme=dark&bg_color=0D1117" height="192px" width="49.5%"/>
   </a>
   <a href="https://github.com/yashhhseella">
